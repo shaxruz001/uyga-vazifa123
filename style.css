@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.shaxruz{
+    margin-left: 500px;
+    padding: 100px;
+}
+
+.Bexruz{
+    color: #fff;
+    position: fixed;
+    background-color: blue;
+    width: 500px;
+    height: 1000px;
+    text-align: left;
+    padding-top: 10px;
+    padding-left: 10px;
+    top: 0;
+    left:0;
+    
+}
+
+.firuz{
+    background-color: rgb(4, 4, 69);
+    border-radius: 50px;
+    padding: 10px;
+    margin-top: 10px;
+    margin-left: 470px;
+}
+
+.one{
+    border-bottom: 1px solid rgb(78, 78, 211);
+}
